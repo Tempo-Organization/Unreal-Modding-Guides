@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/b5d0e929-2fd9-48c0-99e1-e18755ef2f80
 
-Keep in mind, what sites will work, depends on the cef version in your unreal engine install.\
+Keep in mind, what sites will work, depends on the cef version in your unreal engine install. \
 For 4.27 and below, many newer sites using newer technologies may not load
 
 The example site from the video:
