@@ -36,10 +36,28 @@ theme:
 nav:
   - Home: index.md
   - Guides:
+      - Blueprints:
+        - Check When Function Fires: guides/blueprints/check_when_function_fires.md
+        - Find Components For Modding: guides/blueprints/find_components_for_modding.md
+        - Free Camera: guides/blueprints/free_camera.md
+        - Key Press Macro: guides/blueprints/key_press_macro.md
+        - Menu Toggle Example: guides/blueprints/menu_toggle_example.md
+        - Passing Event To Macro To Fire: guides/blueprints/passing_event_to_macro_to_fire.md
+        - Possession Toggle Example: guides/blueprints/possesion_toggle.md
+        - Reapply Model Materials: guides/blueprints/reapply_model_materials.md
+        - Spawning And Setting Validated Get: guides/blueprints/spawning_and_setting_validated_get.md
+        - Website Editor Utility Widget: guides/blueprints/website_editor_utility_widget.md
+      - Engine:
+        - Expose Asset Registry Functions: guides/engine/expose_asset_registry_functions.md
+        - Expose Set Variable Functions: guides/engine/expose_set_var_functions.md
       - Materials:
         - Scalable Tile Material: guides/materials/scalable_tile_material.md
       - Navigation:
         - Add New Nav Mesh: guides/navigation/add_new_nav_mesh.md
+      - Project Management:
+        - Github Desktop Example: guides/project_management/github_desktop_example.md
+      - Textures:
+        - Flat Textures: guides/textures/flat_textures.md
   - Community: community.md
 
 
