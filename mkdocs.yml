@@ -1,0 +1,58 @@
+site_name: Unreal Modding Guides
+site_url: https://tempo-organization.github.io/Unreal-Modding-Guides/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  icon:
+    logo: fontawesome/solid/u
+    repo: fontawesome/brands/github
+  palette:
+    # Auto toggle for the user to switch between modes based on system preference
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to system preference
+
+    # Default Dark Mode (for users who have dark mode preference)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep purple
+      accent: cyan
+
+    # Default Light Mode (for users who have light mode preference)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: deep purple
+      accent: cyan
+
+nav:
+  - Home: index.md
+  - Guides:
+      - Miscellaneous:
+        - Test One: guides/misc/test.md
+        - Test Two: guides/misc/test_two.md
+  - Community: community.md
+
+
+extra_css:
+  - stylesheets/extra.css
+
+repo_url: https://github.com/Tempo-Organization/Unreal-Modding-Guides
+repo_name: Unreal-Modding-Guides
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Tempo-Organization/Unreal-Modding-Guides
+      name: Unreal-Modding-Guides on Github
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/EvUuAD4QvS
+      name: Tempo Discord Server

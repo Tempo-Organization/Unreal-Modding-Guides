@@ -1,0 +1,11 @@
+[project]
+name = "modding-guides"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "commitizen>=4.8.3",
+    "mkdocs-material>=9.6.15",
+    "pre-commit>=4.2.0",
+]
