@@ -1,4 +1,4 @@
-# Community Page
+# Community
 
 ## Unreal Engine Modding Related Discords
 - [Tempo Discord](https://discord.gg/EvUuAD4QvS)

@@ -1,4 +1,3 @@
-
-
-https://github.com/user-attachments/assets/7a1b56c6-2e07-48ee-9016-3bd54ff89133
-
+<video width="100%" controls>
+  <source src="https://github.com/Tempo-Organization/Unreal-Modding-Guides/raw/main/assets/videos/github_desktop_video.mp4" type="video/mp4">
+</video>

@@ -1,1 +1,3 @@
-https://github.com/user-attachments/assets/b987d359-67b7-49cb-abd6-b23bc04b86d9
+<video width="100%" controls>
+  <source src="https://github.com/Tempo-Organization/Unreal-Modding-Guides/raw/main/assets/videos/free_camera.mp4" type="video/mp4">
+</video>
