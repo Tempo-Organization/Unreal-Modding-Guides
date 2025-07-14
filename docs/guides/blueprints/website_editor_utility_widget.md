@@ -1,6 +1,6 @@
-
-
-https://github.com/user-attachments/assets/b5d0e929-2fd9-48c0-99e1-e18755ef2f80
+<video width="100%" controls>
+  <source src="https://github.com/Tempo-Organization/Unreal-Modding-Guides/raw/main/assets/videos/website_editor_utility_widget.mp4" type="video/mp4">
+</video>
 
 Keep in mind, what sites will work, depends on the cef version in your unreal engine install. \
 For 4.27 and below, many newer sites using newer technologies may not load
