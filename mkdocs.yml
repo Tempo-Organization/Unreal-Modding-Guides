@@ -36,9 +36,6 @@ theme:
 nav:
   - Home: index.md
   - Guides:
-      - Miscellaneous:
-        - Test One: guides/misc/test.md
-        - Test Two: guides/misc/test_two.md
       - Materials:
         - Scalable Tile Material: guides/materials/scalable_tile_material.md
       - Navigation:
