@@ -59,6 +59,7 @@ nav:
       - Textures:
         - Flat Textures: guides/textures/flat_textures.md
   - Community: community.md
+  - Contributing: contributing.md
 
 
 extra_css:
